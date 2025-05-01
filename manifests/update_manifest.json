@@ -1,7 +1,7 @@
 {
     "version": "1.1.0",
     "versionCode": 1,
-    "updateUrl": "https://github.com/VeeZ7/OIBalloonBot/releases/download/v1.1.0/app-releasev1.1.0.apk",
+    "updateUrl": "https://github.com/VeeZ7/OIBalloonBot/releases/download/v1.1.0/app-releasev1.1.0.apk" ,
     "mandatory": false,
     "minimumSupportedVersion": "1.0.0",
     "whatsNew": [
