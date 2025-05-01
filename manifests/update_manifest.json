@@ -1,7 +1,7 @@
 {
     "version": "1.2.0",
     "versionCode": 12,
-    "updateUrl": "https://github.com/YourUsername/BalloonBotUpdates/releases/download/v1.2.0/BalloonBot_v1.2.0.apk",
+    "updateUrl": "https://github.com/VeeZ7/BalloonBotUpdates/releases/download/v1.2.0/BalloonBot_v1.2.0.apk",
     "mandatory": false,
     "minimumSupportedVersion": "1.0.0",
     "whatsNew": [
