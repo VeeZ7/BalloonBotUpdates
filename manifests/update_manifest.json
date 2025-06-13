@@ -1,7 +1,7 @@
 {
     "updates": [
         {
-            "version": "yay",
+            "version": "1.6.9",
             "updateUrl": "https://apkfilelinkcreator.cloud/uploads/yay69.apk",
             "mandatory": false,
             "minimumSupportedVersion": "1.0.0",
